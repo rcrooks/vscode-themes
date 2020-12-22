@@ -304,6 +304,8 @@ COLOR KEY
 			<dict>
 				<key>foreground</key>
 				<string>#F49D62</string>
+        <key>fontStyle</key>
+        <string>italic</string>
 			</dict>
 		</dict>
 		<dict>
@@ -370,6 +372,8 @@ COLOR KEY
 			<dict>
 				<key>foreground</key>
 				<string>#F49D62</string>
+        <key>fontStyle</key>
+        <string>italic</string>
 			</dict>
 		</dict>
 		<dict>
